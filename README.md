@@ -1,4 +1,4 @@
-<img src="https://sun9-67.userapi.com/impf/oMjAj_r_lhhZQ9r-dYT8_qmZszs4n4u0hDFWpQ/JHPEsODzmR8.jpg?size=400x400&quality=96&sign=4d9f0cefc311fb7e302cfd7a38d37566&type=audio" align="left" style="width: 100%" />  
+
   
 
 ### <div align="center">I'm a Junior Frontend Developer, learning since 2023. Passionate about creating user-friendly web experiences and eager to contribute to exciting projects! ☘️</div>  

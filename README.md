@@ -17,16 +17,19 @@
 
 <br/>  
 
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/hell077" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
+<a href="https://vk.com/imfine_ok" target="_blank">
+<img src=https://img.shields.io/badge/VK-%233498db.svg?&style=for-the-badge&logo=vk&logoColor=white alt=vk style="margin-bottom: 5px;" />
+</a>  
+<a href="mailto:gdhald4@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-%230077B5.svg?&style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" alt="email" style="margin-bottom: 5px;" />
+</a>
+</div>
 
-<br/>  
 
 
 ## Github Stats  

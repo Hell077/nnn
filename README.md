@@ -28,9 +28,6 @@
 <a href="mailto:gdhald4@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-%230077B5.svg?&style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" alt="email" style="margin-bottom: 5px;" />
 </a>
- <a href="https://t.me/yabous" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?&style=for-the-badge&logo=Telegram&logoColor=white" alt="telegram" style="margin-bottom: 5px; margin-left: 5px;" />
-  </a>
 </div>
 
 
